@@ -1,0 +1,10 @@
+body {
+    background:black;
+    color:black;
+    background-image: url(assets/eddie.jpg); 
+    background-size: cover;
+    font-family: 'Great Vibes';
+    font-size:60px;
+    margin-top:350px;    
+    margin-left:60px;
+  }
